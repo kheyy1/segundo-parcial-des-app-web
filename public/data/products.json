@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "nombre": "Cappuccino Clásico",
+    "precio": 7000,
+    "categoria": "Bebidas calientes",
+    "stock": 50,
+    "descripcion": "Espresso con leche espumada y canela. Un clásico irresistible.",
+    "img": "https://png.pngtree.com/png-clipart/20250519/original/pngtree-coffee-cup-with-heart-latte-art-beverage-hot-drink-cafe-png-image_21028442.png"
+  },
+  {
+    "id": 2,
+    "nombre": "Latte Vainilla",
+    "precio": 8500,
+    "categoria": "Bebidas calientes",
+    "stock": 40,
+    "descripcion": "Espresso suave con leche vaporizada y toque de vainilla natural.",
+    "img": "https://png.pngtree.com/png-clipart/20250417/original/pngtree-velvety-iced-latte-with-a-layer-of-fluffy-cream-png-image_20715353.png"
+  },
+  {
+    "id": 3,
+    "nombre": "Frappé",
+    "precio": 9500,
+    "categoria": "Bebidas frías",
+    "stock": 35,
+    "descripcion": "Café batido con hielo y leche cremosa, decorado con granos de café.",
+    "img": "https://png.pngtree.com/png-clipart/20241114/original/pngtree-frappe-coffee-with-beans-on-white-background-png-image_17060024.png"
+  },
+  {
+    "id": 4,
+    "nombre": "Americano Doble",
+    "precio": 6000,
+    "categoria": "Bebidas calientes",
+    "stock": 60,
+    "descripcion": "Doble shot de espresso con agua caliente. Intenso y reconfortante.",
+    "img": "https://png.pngtree.com/png-vector/20241002/ourmid/pngtree-a-cup-of-black-americano-coffee-png-image_14002303.png"
+  },
+  {
+    "id": 5,
+    "nombre": "Brownie de Chocolate",
+    "precio": 7500,
+    "categoria": "Repostería",
+    "stock": 20,
+    "descripcion": "Brownie húmedo y denso con chips de chocolate 70% cacao.",
+    "img": "https://png.pngtree.com/png-vector/20240623/ourlarge/pngtree-deliciously-simple-chocolate-brownie-recipe-on-transparent-background-png-image_12823008.png"
+  },
+  {
+    "id": 6,
+    "nombre": "Croissant de Mantequilla",
+    "precio": 5500,
+    "categoria": "Repostería",
+    "stock": 25,
+    "descripcion": "Hojaldre artesanal recién horneado, crujiente por fuera y suave por dentro.",
+    "img": "https://png.pngtree.com/png-vector/20250102/ourmid/pngtree-flaky-butter-croissant-golden-and-crispy-a-freshly-baked-treat-png-image_15004441.png"
+  },
+  {
+    "id": 7,
+    "nombre": "Tarta de Frutos Rojos",
+    "precio": 9000,
+    "categoria": "Repostería",
+    "stock": 15,
+    "descripcion": "Base de masa quebrada con crema pastelera y frutos del bosque frescos.",
+    "img": "https://png.pngtree.com/png-clipart/20241117/original/pngtree-a-slice-of-cheesecake-with-berries-on-top-png-image_17165591.png"
+  },
+  {
+    "id": 8,
+    "nombre": "Espresso Puro",
+    "precio": 5000,
+    "categoria": "Bebidas calientes",
+    "stock": 70,
+    "descripcion": "Un shot perfecto de espresso con crema dorada. La base de todo.",
+    "img": "https://png.pngtree.com/png-clipart/20250519/original/pngtree-coffee-cup-with-heart-latte-art-beverage-hot-drink-cafe-png-image_21028442.png"
+  },
+  {
+    "id": 9,
+    "nombre": "Matcha Latte",
+    "precio": 9500,
+    "categoria": "Bebidas calientes",
+    "stock": 30,
+    "descripcion": "Té matcha ceremonial japonés con leche de avena espumada.",
+    "img": "https://png.pngtree.com/png-clipart/20250417/original/pngtree-velvety-iced-latte-with-a-layer-of-fluffy-cream-png-image_20715353.png"
+  },
+  {
+    "id": 10,
+    "nombre": "Muffin de Arándanos",
+    "precio": 6500,
+    "categoria": "Repostería",
+    "stock": 22,
+    "descripcion": "Esponjoso y repleto de arándanos frescos. Perfecto para la mañana.",
+    "img": "https://png.pngtree.com/png-clipart/20241114/original/pngtree-frappe-coffee-with-beans-on-white-background-png-image_17060024.png"
+  }
+]
