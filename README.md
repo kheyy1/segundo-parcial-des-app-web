@@ -5,6 +5,13 @@ Instalacion de dependencias:
 
     npm install vue-router bootstrap bootstrap-icons
 
+## ⚠️ Aviso de Seguridad
+
+> [!CAUTION]
+> **Este sistema NO es seguro para entornos de producción.**
+> 
+> La validación de usuarios mediante un archivo JSON local se ha implementado **únicamente con fines educativos**. No cuenta con cifrado de contraseñas, gestión segura de sesiones ni protección contra vulnerabilidades, por lo que **no representa un sistema de autenticación real**. No debe ser utilizado en proyectos reales o comerciales.
+
     
 # ☕ Coffee Shop Project - [Café aroma]
 
